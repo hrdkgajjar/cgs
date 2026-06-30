@@ -1108,6 +1108,12 @@ body.dark-mode .icon-card-detailed {
     text-decoration: underline;
 }
 
+.developer-credit {
+    font-size: 0.8rem;
+    color: #aaa;
+    margin-bottom: 0.5rem;
+}
+
 /* Responsive adjustments for these new sections */
 @media (max-width: 992px) {
     .mission-vision-grid, .grid-container-2 {
