@@ -52,6 +52,24 @@ class MobileNav {
             this.navMenu.addEventListener('keydown', this.trapFocus.bind(this));
         }
     }
+
+    trapFocus(e) {
+        const isTabPressed = e.key === 'Tab';
+
+        if (!isTabPressed) return;
+
+        if (e.shiftKey) { // Shift + Tab
+            if (document.activeElement === this.firstFocusableElement) {
+                this.lastFocusableElement.focus();
+                e.preventDefault();
+            }
+        } else { // Tab
+            if (document.activeElement === this.lastFocusableElement) {
+                this.firstFocusableElement.focus();
+                e.preventDefault();
+            }
+        }
+    }
 }
 
 class StickyHeader {

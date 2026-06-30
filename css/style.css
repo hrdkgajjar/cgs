@@ -991,6 +991,13 @@ body.dark-mode .icon-card-detailed {
     margin: 0 auto;
 }
 
+.google-form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
 /* Gallery Page Styles */
 .gallery-grid {
     display: grid;
