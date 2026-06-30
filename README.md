@@ -27,7 +27,7 @@ The website is built using only **HTML5, CSS3, and modern JavaScript (ES6+)**, w
 
 ## 📂 Project Structure
 
-The project follows a clean and intuitive folder structure.
+The project follows a clean, multi-language folder structure.
 
 ```
 cgs-website/
