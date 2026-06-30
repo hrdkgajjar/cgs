@@ -198,6 +198,12 @@ img {
     color: var(--deep-blue);
 }
 
+.logo-img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+}
+
 .nav-menu {
     display: flex;
     gap: 2rem;
