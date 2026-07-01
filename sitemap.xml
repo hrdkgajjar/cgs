@@ -5,45 +5,46 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+<!-- English URLs -->
 <url>
-  <loc>https://www.yourwebsite.com/index.html</loc>
+  <loc>https://www.yourwebsite.com/</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/about.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/activities.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/consumer-rights.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/news.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/contact.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/membership.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/gallery.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.yourwebsite.com/privacy-policy.html</loc>
@@ -52,6 +53,100 @@
 </url>
 <url>
   <loc>https://www.yourwebsite.com/terms.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+<!-- Gujarati URLs -->
+<url>
+  <loc>https://www.yourwebsite.com/gu/</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/about.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/activities.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/consumer-rights.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/news.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/contact.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/membership.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/gu/gallery.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- Hindi URLs -->
+<url>
+  <loc>https://www.yourwebsite.com/hi/</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/about.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/activities.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/consumer-rights.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/news.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/contact.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/membership.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/gallery.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/privacy-policy.html</loc>
+  <lastmod>2026-06-30T02:28:49+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://www.yourwebsite.com/hi/terms.html</loc>
   <lastmod>2026-06-30T02:28:49+00:00</lastmod>
   <priority>0.50</priority>
 </url>
